@@ -1,0 +1,7 @@
+.dub
+docs.json
+dub.userprefs
+__dummy.html
+*.o
+*.obj
+flashpolicy-d
