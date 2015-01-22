@@ -4,7 +4,7 @@
 	"copyright": "Copyright © 2015, zunkree aka Alexander Milushev",
 	"authors": ["zunkree aka Alexander Milushev"],
 	"license": "GPL-2.0 or later",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"dependencies": {
 		"vibe-d": "~>0.7.22"
 	},
